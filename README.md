@@ -70,8 +70,6 @@ Start → Read Moisture → Read Temp (LM35) → Read Humidity (DHT11)
 
 ## 💻 Code
 
-See [`plant_watering.ino`](./plant_watering.ino) for the full Arduino sketch.
-
 **Key logic:**
 ```cpp
 if (soilMoisture < MOISTURE_THRESHOLD) {
