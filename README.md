@@ -108,7 +108,7 @@ The full project report is available in the [`report/`](./report/) folder.
 
 ## 🙏 Acknowledgements
 
-Thanks to the lab assistants and proffesor Arup Lal Chakroborty at IIT Gandhinagar for their support and guidance throughout the project.
+Thanks to the lab assistants and professor Arup Lal Chakroborty at IIT Gandhinagar for their support and guidance throughout the project.
 
 ---
 
