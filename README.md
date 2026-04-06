@@ -85,25 +85,10 @@ if (soilMoisture < MOISTURE_THRESHOLD) {
 
 ## 📊 Results
 
-- Real-time moisture, temperature, and humidity readings on LCD ✅
-- Relay-controlled pump activates **only when needed** — conserving water ✅
-- Moving average filter on LM35 for **stable temperature readings** ✅
-- Capacitive sensor ensures **corrosion-resistant** long-term performance ✅
-- Successfully tested on multiple soil types ✅
+- Real-time moisture, temperature, and humidity readings on LCD.
+- Relay-controlled pump activates only when needed — conserving water. 
+- Moving average filter on LM35 for stable temperature readings.
 
----
-
-## 📁 Repository Structure
-
-```
-plant-watering-system/
-├── README.md
-├── plant_watering.ino       # Arduino source code
-├── report/
-│   └── ES116_PROJECT_REPORT_RISHI_24110297.pdf
-└── assets/
-    └── system_photo.jpg
-```
 
 ---
 
@@ -118,21 +103,17 @@ The full project report is available in the [`report/`](./report/) folder.
 - Add Wi-Fi (ESP8266/ESP32) for remote monitoring via a mobile app
 - Solar-powered for outdoor/off-grid use
 - Multiple plant zones with individual thresholds
-- Data logging to SD card or cloud (ThingSpeak, Blynk)
 
 ---
 
 ## 🙏 Acknowledgements
 
-Thanks to the lab assistants at IIT Gandhinagar for their support and guidance throughout the project.
+Thanks to the lab assistants and proffesor Arup Lal Chakroborty at IIT Gandhinagar for their support and guidance throughout the project.
 
 ---
 
 ## 📚 References
 
-1. [Arduino Uno — Arduino.cc](https://www.arduino.cc/en/Main/ArduinoBoardUno)
-2. [Automatic Plant Watering System Using Arduino — Instructables](https://www.instructables.com/Automatic-Plant-Watering-System/)
+1. https://www.arduino.cc/en/Main/ArduinoBoardUno
+2. https://projecthub.arduino.cc/lc_lab/automatic-watering-system-for-my-plants-e4c4b9
 
----
-
-*Note: Schematic and circuit diagrams in the project report are AI-generated for illustration purposes.*
