@@ -10,7 +10,7 @@
 
 ## 📸 Demo
 
-![Plant Watering System](./assets/system_photo.jpg)
+![Plant Watering System](https://github.com/user-attachments/assets/832bc579-0fe9-4c31-8df4-1df434ad0ac8)
 
 ---
 
