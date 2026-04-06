@@ -4,7 +4,7 @@
 
 **Course:** ES116 — Principles and Applications of Electrical Engineering  
 **Institute:** Indian Institute of Technology Gandhinagar  
-**Author:** Rishi Soni (24110297)
+**Author:** Rishi Soni (24110297) Rishit Verma (24110298)
 
 ---
 
